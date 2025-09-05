@@ -1,0 +1,22 @@
+{
+  "name": "judgeapp",
+  "version": "1.0.0",
+  "private": true,
+  "homepage":  "https://matheushennbitencourt-prog.github.io/teste",
+,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.10",
+    "postcss": "^8.4.38",
+    "autoprefixer": "^10.4.20",
+    "lucide-react": "^0.277.0",
+    "@tensorflow-models/pose-detection": "^0.0.7",
+    "@tensorflow/tfjs": "^4.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
