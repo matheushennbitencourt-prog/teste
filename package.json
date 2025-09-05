@@ -2,8 +2,7 @@
   "name": "judgeapp",
   "version": "1.0.0",
   "private": true,
-  "homepage":  "https://matheushennbitencourt-prog.github.io/teste",
-,
+  "homepage": "https://matheushennbitencourt-prog.github.io/teste",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
